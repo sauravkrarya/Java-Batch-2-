@@ -1,3 +1,4 @@
+package Saurav.JAVA.OOPS.TEST1;
 //What is inheritance in Java? How does it help?
 
 //ans:- inheritance is basically feature of oops that mostly used for inherit the property from paresnt class to child class. There are differnt type of inheritance 

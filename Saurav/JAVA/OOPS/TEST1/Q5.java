@@ -1,3 +1,4 @@
+package Saurav.JAVA.OOPS.TEST1;
 //Explain the concept of encapsulation with an example.
 
 //Ans:- encapsulation is way of wrapping of data into single unit, that can use multiple time, without rewritting the code again and again.
